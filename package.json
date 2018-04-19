@@ -1,0 +1,40 @@
+{
+  "name": "nestj-starter-template",
+  "version": "1.0.0",
+  "description": "Example of NestJS and TypeORM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nestjs",
+    "typeorm",
+    "express",
+    "typescript"
+  ],
+  "author": "Jesus Gilberto Valenzuela Rochin",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^4.6.6",
+    "@nestjs/core": "^4.6.6",
+    "@nestjs/microservices": "^4.6.6",
+    "@nestjs/testing": "^4.6.6",
+    "@nestjs/typeorm": "^2.0.0",
+    "@nestjs/websockets": "^4.6.6",
+    "@types/express-jwt": "0.0.40",
+    "@types/method-override": "0.0.31",
+    "body-parser": "^1.18.2",
+    "express-jwt": "^5.3.1",
+    "jwks-rsa": "^1.2.1",
+    "method-override": "^2.3.10",
+    "mssql": "^4.1.0",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.5.9",
+    "typeorm": "^0.1.20",
+    "typescript": "^2.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.4",
+    "ts-node": "^5.0.1"
+  }
+}
