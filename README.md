@@ -5,7 +5,7 @@
 </p>
 
 ## Description
-This repository allows you to start develop applications from an existing structure. The project is configured with a SQL Server connection and TypeORM by default. However it is easly to change it's database connectior thanks to its great ecosystem of connectors.
+This repository allows you to start develop applications from an existing structure. The project is configured with a SQL Server connection and TypeORM by default. However it is easly to change it's database connection thanks to its great ecosystem of connectors.
 
 
 ## Getting started
