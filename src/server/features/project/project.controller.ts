@@ -10,7 +10,7 @@ export class ProjectsController {
     }
 
     @Get()
-    async getProyects() {
+    async getProjects() {
         return await this.projectService.findAll();
     }
 
